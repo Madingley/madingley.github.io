@@ -108,7 +108,7 @@ font header .navbar-default .navbar-nav li a:hover {
 	Slider Start
 --*/
 #slider {
-  background: url("../img/slider-bg.jpg") no-repeat;
+  background: url("../img/underwater.jpeg") no-repeat;
   background-size: cover;
   background-attachment: fixed;
   background-position: 10% 0%;
@@ -124,7 +124,8 @@ font header .navbar-default .navbar-nav li a:hover {
   right: 0;
   width: 100%;
   height: 100%;
-  background: linear-gradient(to left, #8b86a3, #322e40);
+  /*background: linear-gradient(to left, #8b86a3, #322e40);*/
+  background: linear-gradient(to bottom, #626d71, #00293c);
   opacity: 0.8;
 }
 #slider .block {
