@@ -16,7 +16,7 @@
    text-align: center;
  }
 
-.post-area {
+.post-area, .content-area {
   padding: 40px;
   width: 100%;
   min-height: 150px;
