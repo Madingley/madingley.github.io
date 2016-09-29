@@ -821,3 +821,8 @@ footer .footer-manu ul li a {
 footer .footer-manu ul li a:hover {
   color: #000;
 }
+
+.partner-logo {
+  width: 150px;
+  margin-right: 20px;
+}
