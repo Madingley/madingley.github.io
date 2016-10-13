@@ -2,7 +2,8 @@
 layout: post
 title: All life on earth
 subtitle:
-date: 2016-10-13 11:11:27
+date: 2016-10-12 01:11:27
+author: jekyll 
 ---
 
 Madingley’s focus at its conception – and first appearance in the academic arena – was an effort to model ‘all life on earth’. An exciting endeavour and something any recently-graduated, aspiring PhD student would jump to be involved in. Cue my entrance three years ago. The reasonable success of Madingley’s broad reconstruction of trophic systems across the globe opened up opportunities for more detailed, and more applied, studies. In our recent Proceedings of the Royal Society B publication, we used Madingley’s ecological systems to study the effects of habitat loss and fragmentation in Kenyan grassland ecosystems – an area of the world where imperious animals such as elephants, giraffes, rhinoceros, and leopards still roam under the protection of reserves.
@@ -17,4 +18,4 @@ The sensitivity of these largest animals, and the synergistic forces of habitat 
 
 of plants – where following the clearing of plants as part of habitat loss, the remaining greenery in the ecosystem was able to compensate for the loss – in the most extreme cases having 70% more plant matter in the ecosystem than expected. As far as we know, our study is the first time this effect has been characterised in its magnitude, and could be crucial in understanding carbon storage and therefore climate change. Mechanisms behind this effect warrant further investigation – it seems apparent that the effect comes about because of changes in the trophic network. For example, the loss of larger herbivores could drive predators to predate smaller prey, reducing overall herbivore numbers and therefore reducing grazing. This kind of surprising finding is exactly the sort of gain to be made from using Madingley – and other models like it; without all trophic levels, these types of feedbacks may not be revealed. Ecology is never simple, and as we can use more complicated models, so more of these important phenomena will likely appear.
 
-Written by Lewis Bartlett (@BeesAndBaking) Lewis began this work whilst interning at UNEP-WCMC in July 2013. He is now a PhD researcher working on infectious disease evolution and honey bee management at UC Berkeley, California and University of Exeter, UK.
+Written by Lewis Bartlett [@BeesAndBaking](http://twitter.com/BeesAndBaking) Lewis began this work whilst interning at UNEP-WCMC in July 2013. He is now a PhD researcher working on infectious disease evolution and honey bee management at UC Berkeley, California and University of Exeter, UK.
