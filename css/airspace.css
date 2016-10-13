@@ -64,9 +64,8 @@ a:active {
   margin-bottom: 70px;
 }
 .section-title h2 {
-  text-transform: uppercase;
-  font-size: 28px;
-  font-weight: 600;
+  font-size: 30px;
+  font-weight: 400;
 }
 .section-title p {
   font-family: 'Volkhov', serif;
@@ -133,18 +132,16 @@ font header .navbar-default .navbar-nav li a:hover {
 }
 #slider .block h1 {
   font-family: 'Roboto', sans-serif;
-  font-weight: 100;
+  font-weight: 400;
   font-size: 45px;
-  line-height: 60px;
-  letter-spacing: 10px;
-  padding-bottom: 45px;
+  line-height: 50px;
+  padding-bottom: 35px;
 }
 #slider .block p {
   font-size: 23px;
   line-height: 40px;
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   font-weight: 300;
-  letter-spacing: 3px;
 }
 /*--
 	wrapper Start
@@ -400,9 +397,8 @@ font header .navbar-default .navbar-nav li a:hover {
   text-align: center;
 }
 #global-header .block h1 {
-  font-weight: 100;
+  font-weight: 400;
   font-size: 45px;
-  letter-spacing: 6px;
   padding-bottom: 15px;
   margin-top: 0;
   text-transform: capitalize;
@@ -410,8 +406,6 @@ font header .navbar-default .navbar-nav li a:hover {
 #global-header .block p {
   font-size: 16px;
   font-weight: 300;
-  letter-spacing: 1px;
-  word-spacing: 3px;
 }
 /*--
 	portfolio-work Start

@@ -24,6 +24,11 @@
   border-bottom: 1px dotted #ddd;
 }
 
+.post-area {
+  width: 80%;
+  margin: 0 auto;
+}
+
 .post-area a:link, .post-area a:visited {
   font-size: 30px;
   color: #333;
@@ -32,3 +37,6 @@
 .post-area a:hover {
   color: #0D0017;
 }
+
+.navbar-brand img { width: 110px; }
+.navbar-brand { padding: 0px; }
