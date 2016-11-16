@@ -3,12 +3,10 @@ layout: post
 title: Madingley and questions of abstraction and scale
 subtitle:
 date: 2016-11-16 01:11:27
-author: jekyll
+author: phlndrwd
 ---
 
-[![The Scale of the Universe 2](http://img.youtube.com/vi/uaGEjrADGPA/0.jpg)](https://www.youtube.com/watch?v=uaGEjrADGPA "Scale of the Universe 2")
-
-Click the image to play the video
+[Watch "The Scale of the Universe" on YouTube](https://www.youtube.com/watch?v=uaGEjrADGPA)
 
 Madingley is a global computational model. To a broad approximation, the Madingley model represents all (most) forms of life. It achieves this by using what’s called a functional-type representation. Species are aggregated in to broad categories that describe a select number of their properties, rather than everything about them. For some, this conceptual leap is too much. Why take a step towards representing all life, but miss the explicit inclusion of species? The answer lies in making the best of human knowledge, and balancing computational expense.
 
@@ -21,3 +19,5 @@ The simple fact is, while it is possible to represent a natural system using mat
 Mathematicians often talk of ‘discovering’ mathematics. As though it’s been there all along, to be mined from the face of knowledge. Arguably that’s true, but it’s irrelevant while it’s also true that we lack the mathematics required to accurately describe the complexity of nature. Until we do, it’s useful to see any and all model approaches as abstract. Regardless of how much data is used. If anything, it can be argued that mathematical models require so much data precisely because they are so abstract. Many of the functions within a computational model are based on well accepted theories, each with decades of research, data collection, and experimentation to support them. It happens that linking them together with computer code is a convenient way to test them in unison.
 
 Life is the function of a massive set of interleaved and overlapping physical and chemical processes taking place simultaneously across an incredible range of scales. It’s true that Madingley doesn’t go so far as to capture this complexity, but it takes a bold step in that direction. Lowering the level of description to that of the individual or group of individuals permits an explicit representation of processes operating on different scales. Local-scale interactions producing net, global-scale results. It’s a test-bed for the inclusion of well understood mechanisms, and the exploration of speculative hypotheses. In this way, it may evolve in to a model that can adapt in a similar way to the real-world subject. The Madingley Model is not an end. It is a beginning. It embodies an approach and philosophy to modelling life that sheds the bias of human perception and views life as it really is: as a global phenomenon.
+
+Written by Phil Underwood [@phlndrwd](http://twitter.com/phlndrwd)
