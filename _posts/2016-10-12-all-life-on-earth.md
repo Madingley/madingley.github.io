@@ -3,7 +3,7 @@ layout: post
 title: All life on earth
 subtitle:
 date: 2016-10-12 01:11:27
-author: jekyll 
+author: Lewis Bartlett 
 ---
 
 Madingley’s focus at its conception – and first appearance in the academic arena – was an effort to model ‘all life on earth’. An exciting endeavour and something any recently-graduated, aspiring PhD student would jump to be involved in. Cue my entrance three years ago. The reasonable success of Madingley’s broad reconstruction of trophic systems across the globe opened up opportunities for more detailed, and more applied, studies. In our recent Proceedings of the Royal Society B publication, we used Madingley’s ecological systems to study the effects of habitat loss and fragmentation in Kenyan grassland ecosystems – an area of the world where imperious animals such as elephants, giraffes, rhinoceros, and leopards still roam under the protection of reserves.
