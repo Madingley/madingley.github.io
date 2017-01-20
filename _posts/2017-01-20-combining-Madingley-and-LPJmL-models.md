@@ -13,8 +13,11 @@ The representation of plants in Madingley is crude, and misses much of the ecolo
 LPJmL model computes the establishment, growth and productivity of natural and agricultural plant types, carbon, nitrogen, phosphorus and water fluxes, and response to climatic conditions and human interferences such as irrigation, land use change and groundwater withdrawal. Natural and agricultural vegetation is represented by various plant functional types (PFTs), characterized by different physiological, morphological, phenological, bioclimatic and fire-response attributes. Agricultural vegetation (currently 12 common crop types) can be either rainfed or irrigated. Simulations can be made of past, present and future climates. Outcomes of LPJmL modeling also provide a basis for evaluating the potential for rain-fed farming, e.g., for poor subsistence farmers to increase their yields, producing food also for local market and potential income raising, and thus, will make it possible to identify water scarcity-driven poverty and malnutrition hot-spots, which may culminate in risk of conflict and/or urban, trans-country or international migration.
 
 In an East African cases study we will couple the animal component of Madingley with LPJmL. In so doing, we will improve the representation of natural vegetation and include agricultural vegetation for the first time into Madingley, as well as incorporate the feedback from animals on plants (e.g. grazing pressure) in LPJmL.
+<p>
 
 <img src="img/news/giraffe.jpg" alt="Giraffe">
+
+</p>
 
 By 2030, East African society faces a major global challenge: to eradicate hunger and secure sustainable food for all (Sustainable Development Goal, SDG, 2) whilst also ensuring sustainable terrestrial ecosystems and halting biodiversity loss (SDG 15). Bringing together this discrepancy is a global challenge.
 
