@@ -14,11 +14,13 @@ LPJmL model computes the establishment, growth and productivity of natural and a
 
 In an East African cases study we will couple the animal component of Madingley with LPJmL. In so doing, we will improve the representation of natural vegetation and include agricultural vegetation for the first time into Madingley, as well as incorporate the feedback from animals on plants (e.g. grazing pressure) in LPJmL.
 
+<img src="img/news/giraffe.jpg" alt="Giraffe">
+
 By 2030, East African society faces a major global challenge: to eradicate hunger and secure sustainable food for all (Sustainable Development Goal, SDG, 2) whilst also ensuring sustainable terrestrial ecosystems and halting biodiversity loss (SDG 15). Bringing together this discrepancy is a global challenge.
 
 Africa currently has greatest rate of population growth of any continent: the population is projected to more than double in size to 2.9 billion by 2050. This growth will necessarily result in increased demands on the environment, for example, conversion of land for food production and the extraction of water. The challenge of sustainably meeting the demands of a rapidly growing population will be exacerbated by climate change
 
-East Africa is also characterized by a particularly large diversity of species and ecosystems. The escalation of anthropogenic pressures resulting from population growth is likely to impact upon biodiversity and thus upon the capacity of ecosystems to provide the goods and services (e.g. nutrient cycling or provision of clean water) on which society ultimately depends6.
+East Africa is also characterized by a particularly large diversity of species and ecosystems. The escalation of anthropogenic pressures resulting from population growth is likely to impact upon biodiversity and thus upon the capacity of ecosystems to provide the goods and services (e.g. nutrient cycling or provision of clean water) on which society ultimately depends.
 
 The East Africa region is economically unique in combining a substantial agricultural sector, both arable and pastoral, with a substantial sector of the economy supported by tourism linked to the diversity and iconic status of its native fauna. However these economic demands come into conflict, which will increase in a future dominated by global change, if the environmental resources of the region are not managed effectively. Already, 30-40 % of African forests and savannas have been converted to cropland, pasture and urban areas.
 
