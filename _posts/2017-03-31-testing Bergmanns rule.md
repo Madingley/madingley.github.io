@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: Mechanistic macroecology - A Test of Bergmann Rule
